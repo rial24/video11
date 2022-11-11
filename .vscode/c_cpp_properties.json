@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${ffmpeg}/**"
+                "E:\\ffmpeg-snapshot\\ffmpeg",
+                "C:\\Users\\OPERIT-ADF\\video11\\include"
             ],
             "defines": [
                 "_DEBUG",
